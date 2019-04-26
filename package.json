@@ -1,0 +1,26 @@
+{
+  "name": "everyone-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "mongo-db": "^1.0.2",
+    "ms": "^2.1.1",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^1.18.11",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.0.2",
+    "twitch": "^2.2.2"
+  }
+}
