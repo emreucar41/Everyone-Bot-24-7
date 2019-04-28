@@ -7,7 +7,7 @@ module.exports.run = (client, message, args) => {
             .addField("İnvite Link", "[Click Here](" + link + ")", false);
 
         message.channel.send(embed);
-    });
+    };
 };
 
 module.exports.help = {
